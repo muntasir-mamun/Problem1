@@ -7,7 +7,7 @@ public class Problem1 {
         float r=3;
         
         if (n>0 && r>0 && n>=r) {
-        System.out.println("Total Hour :" +n/r);
+        System.out.println("Total Class :" +n/r);
         }
         else {
         System.out.println("Eror");
